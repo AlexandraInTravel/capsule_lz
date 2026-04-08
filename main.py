@@ -1,7 +1,7 @@
 from variant_10 import Oil
 
 
-def main(): #создаем гл функцию
+def main(): #гл функция
     price_app = Oil()
     price_app.gr()
 
